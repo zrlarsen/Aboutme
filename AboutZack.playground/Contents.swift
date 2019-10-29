@@ -1,3 +1,7 @@
-import UIKit
 
-var str = "Hello, playground"
+
+let myName = "Zack Larsen"
+
+let hobbies = "Skiing, Basketball, Golf, Hiking, Boating"
+
+
